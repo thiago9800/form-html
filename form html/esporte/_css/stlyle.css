@@ -1,0 +1,33 @@
+body {
+    background: white;
+     
+}
+
+nav{
+  text-align: center; 
+}
+
+/*.pg{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}*/
+
+button {
+    background-color: Transparent;
+    color: black;
+    cursor:pointer;
+    font-size: 25px;
+    margin: 30px;
+    
+  }
+
+
+.mensagem{
+  margin-bottom: 25px;
+  background: transparent;
+  font-size: 30px;
+
+ }
+
